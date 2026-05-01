@@ -2,8 +2,9 @@
 
     $host = "127.0.0.1";
     $dbuser = "root";
-    $dbname = "webtech";
     $dbpass = "";
+    $dbname = "webtech";
+    
 
 
     function getConnection(){
